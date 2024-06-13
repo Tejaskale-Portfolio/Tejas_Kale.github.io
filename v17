@@ -1,0 +1,1235 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <title>Hello! I am Tejas Kale, UI/UX Designer with over seven years of experience, Located in Mumbai, India.</title>
+   <meta name="description" content="Tejas Kale is a User Experience & User Interface designer based in Mumbai with over 7 years of experience. A dynamic professional who seamlessly integrates rapid prototyping, interaction design, motion graphics, and visual design, they excel at solving complex problems with elegance and finesse.">
+   <meta name="keywords" content="User Interface (UI) Design, User Experience (UX) Design, Interaction Design, Visual Design, Rapid Prototyping, Wireframing, Information Architecture, Usability Testing, Responsive Design, Mobile Design, Web Design, Graphic Design, Typography, Design Thinking, User Research, Figma, Accessibility Design">   
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <!-- Place favicon.ico in the root directory -->
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="assets/img/logo/favicon_io/site.webmanifest">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.css">
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/css/custom-animation.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/slick.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/main.css">
+   
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-D443LTFTXL"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-D443LTFTXL');
+	</script>
+   
+</head>
+
+<body id="body" class="tp-magic-cursor">
+   <!--[if lte IE 9]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+      <![endif]-->
+
+   <!-- pre loader area start -->
+   <div id="loading">
+      <div id="loading-center">
+         <div id="loading-center-absolute">
+            <div class="preloader__content text-center">
+               <div class="preloader__top-text d-flex align-items-center justify-content-between">
+                  <p class="preloader__loading text-start">Loading</p>
+                  <h2 id="tp-loading-number" class="text-end">0</h2>
+               </div>
+               <div id="tp-loading-bar" class="preloader__bar">
+                  <div id="tp-loading-line" class="preloader__bar-inner"></div>
+               </div>
+            </div>
+         </div>
+      </div>  
+   </div>
+   <!-- pre loader area end -->
+   
+
+   <!-- Begin magic cursor 
+   ======================== -->
+   <div id="magic-cursor">
+      <div id="ball"></div>
+   </div>
+   <!-- End magic cursor -->
+
+
+   <!-- back to top start -->
+   <div class="back-to-top-wrapper">
+      <button id="back_to_top" type="button" class="back-to-top-btn">
+         <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11 6L6 1L1 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+               stroke-linejoin="round" />
+         </svg>
+      </button>
+   </div>
+   <!-- back to top end -->
+
+   <!-- tp-offcanvus-area-end -->
+   <div class="tp-offcanvas-area-2 tp-menu-2">
+      <div class="tp-offcanvas-shape">
+         <img class="tp-offcanvas-shape-2" src="assets/img/offcanvas/bg-shape-3.png" alt="">
+      </div>
+      <div class="tp-offcanvas-circle-1">
+         <span></span>
+      </div>
+      <div class="tp-offcanvas-circle-2">
+         <span></span>
+      </div>
+      <div class="tp-offcanvas-wrapper">
+         <div class="tp-offcanvas-top-2 d-flex align-items-center justify-content-between">
+            <div class="tp-offcanvas-logo-2">
+               <a href="#">
+                  <img class="logo-white" src="assets/img/logo/logo-black.svg" alt="Tejas Kale UIUX Designer">
+                  <img class="logo-black" src="assets/img/logo/logo.svg" alt="Tejas Kale UIUX Designer">
+               </a>
+            </div>
+            <div class="tp-offcanvas-close-2">
+               <button class="tp-offcanvas-close-btn-2 tp-offcanvas-open-btn-2">
+                  <svg width="37" height="38" viewBox="0 0 37 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M9.19141 9.80762L27.5762 28.1924" stroke="currentColor" stroke-width="1.5"
+                        stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M9.19141 28.1924L27.5762 9.80761" stroke="currentColor" stroke-width="1.5"
+                        stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+               </button>
+            </div>
+         </div>
+         <div class="tp-offcanvas-main-2">
+            <div class="tp-main-menu-mobile d-lg-none">
+               <nav></nav>
+            </div>
+            <div class="tp-offcanvas-contact-2">
+               <h3 class="tp-offcanvas-contact-title-2">Let's Connect</h3>
+
+               <ul>
+                  <li>Call: <a href="tel:+919764228676">+91 9764 228676</a></li>
+                  <li>Email: <a href="mailto:tejas.dk.kale@gmail.com">hello@Tejaskale.in</a></li>
+                  <li>Location: <a href="#">Mumbai, Maharashtra, India.</a></li>
+               </ul>
+            </div>
+            <div class="tp-offcanvas-social-2">
+               <h3 class="tp-offcanvas-contact-title-2">Follow Us</h3>
+               <ul>
+                  <li>
+                     <a target="_blank" href="https://www.linkedin.com/in/Tejaskale/">
+						<i class="fa-brands fa-linkedin-in"></i>
+                     </a>
+                  </li>	
+                  <li>
+                     <a target="_blank" href="https://www.behance.net/Tejaskale">
+                        <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path
+                              d="M1 5.5715H6.33342C7.62867 5.5715 8.61917 6.56199 8.61917 7.85725C8.61917 9.15251 7.62867 10.143 6.33342 10.143H1.76192C1.30477 10.143 1 9.83823 1 9.38108V1.76192C1 1.30477 1.30477 1 1.76192 1H5.5715C6.86676 1 7.85725 1.99049 7.85725 3.28575C7.85725 4.58101 6.86676 5.5715 5.5715 5.5715H1Z"
+                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                           <path
+                              d="M10.9062 7.09454H17.0016C17.0016 5.41832 15.6301 4.04688 13.9539 4.04688C12.2777 4.04688 10.9062 5.41832 10.9062 7.09454ZM10.9062 7.09454C10.9062 8.77076 12.2777 10.1422 13.9539 10.1422H15.2492"
+                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                              stroke-linejoin="round" />
+                           <path d="M16.1125 1.44434H11.668" stroke="currentColor" stroke-width="1.2"
+                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                     </a>
+                  </li>					  
+                  <li>
+                     <a target="_blank" href="https://dribbble.com/Tejaskale">
+                        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path
+                              d="M2.50589 12.7494C4.57662 16.336 9.16278 17.5648 12.7494 15.4941C14.2113 14.65 15.2816 13.388 15.8962 11.9461C16.7895 9.85066 16.7208 7.37526 15.4941 5.25063C14.2674 3.12599 12.1581 1.82872 9.89669 1.55462C8.34063 1.366 6.71259 1.66183 5.25063 2.50589C1.66403 4.57662 0.435172 9.16278 2.50589 12.7494Z"
+                              stroke="currentColor" stroke-width="1.5" />
+                           <path
+                              d="M12.7127 15.4292C12.7127 15.4292 12.0086 10.4867 10.5011 7.87559C8.99362 5.26451 5.28935 2.57155 5.28935 2.57155M5.68449 15.6124C6.79553 12.2606 12.34 8.54524 16.3975 9.43537M12.311 2.4082C11.1953 5.72344 5.75732 9.38453 1.71875 8.58915"
+                              stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+                        </svg>
+                     </a>
+                  </li>
+                  <li>
+                     <a target="_blank" href="https://www.instagram.com/tejas_kale_/">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path
+                              d="M11.25 1.5H4.75C2.95507 1.5 1.5 2.95507 1.5 4.75V11.25C1.5 13.0449 2.95507 14.5 4.75 14.5H11.25C13.0449 14.5 14.5 13.0449 14.5 11.25V4.75C14.5 2.95507 13.0449 1.5 11.25 1.5Z"
+                              stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                           <path
+                              d="M10.6016 7.5907C10.6818 8.13166 10.5894 8.68414 10.3375 9.16955C10.0856 9.65497 9.68711 10.0486 9.19862 10.2945C8.71014 10.5404 8.15656 10.6259 7.61663 10.5391C7.0767 10.4522 6.57791 10.1972 6.19121 9.81055C5.80451 9.42385 5.54959 8.92506 5.46271 8.38513C5.37583 7.8452 5.46141 7.29163 5.70728 6.80314C5.95315 6.31465 6.34679 5.91613 6.83221 5.66425C7.31763 5.41238 7.87011 5.31998 8.41107 5.4002C8.96287 5.48202 9.47372 5.73915 9.86817 6.1336C10.2626 6.52804 10.5197 7.0389 10.6016 7.5907Z"
+                              stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                           <path d="M11.5742 4.42578H11.5842" stroke="currentColor" stroke-width="1.5"
+                              stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                     </a>
+                  </li>				  
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- header area start -->
+   
+   <header>
+
+      <div class="tp-header-area tp-header-mob-space tp-header-transparent p-relative mt-20">
+         <span class="tp-header-border"></span>
+         <div class="container container-large">
+            <div class="tp-header-box p-relative">
+               <div class="row align-items-center">
+                  <div class="col-xl-4 col-lg-3 col-md-4 col-6">
+                     <div class="logo">
+                        <a class="logo-white" href="index.html">
+                           <img data-width="172" src="assets/img/logo/logo-black.svg" alt="Tejas Kale UIUX Designer">
+                        </a>
+                        <a class="logo-black" href="index.html">
+                           <img data-width="172" src="assets/img/logo/logo.svg" alt="Tejas Kale UIUX Designer">
+                        </a>
+                     </div>
+                  </div>
+                  <div class="col-xl-6 col-lg-7 d-none d-lg-block">
+                     <div class="main-menu">
+                        <nav class="tp-main-menu-content">
+                           <ul>
+                              <li><a href="index.html">HOME</a></li>
+                              <li><a href="about.html">ABOUT ME</a></li>
+                              <li class="has-dropdown">
+                                 <a href="#">PORTFOLIO</a>
+                                 <ul class="tp-submenu submenu">
+                                    <li><a href="mobile-ui-ux.html">Mobile App Designs</a></li>							
+                                    <li><a href="web-ui-ux.html">Web Interface Designs</a></li>									
+                                    <li><a href="website-design-development.html">Web Design & Development</a></li>
+                                 </ul>
+                              </li>
+                              <li><a href="contact.html">CONTACT</a></li>
+                           </ul>
+                        </nav>
+                     </div>
+                  </div>
+                  <div class="col-xl-2 col-lg-2 col-md-8 col-6">
+                     <div class="tp-header-right d-flex align-items-center justify-content-end">
+                        <div class="tp-theme-toggle ">
+                           <label class="tp-theme-toggle-main themepure-theme-toggle light-active" for="this-s">
+                              <span class=" tp-theme-toggle-light">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                       d="M8.0448 11.0454C9.70165 11.0454 11.0448 9.7023 11.0448 8.04544C11.0448 6.38859 9.70165 5.04544 8.0448 5.04544C6.38795 5.04544 5.0448 6.38859 5.0448 8.04544C5.0448 9.7023 6.38795 11.0454 8.0448 11.0454Z"
+                                       fill="currentColor" />
+                                    <path d="M8 1.5V2.68182" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M8 13.3182V14.5" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M3.40198 3.40277L4.24107 4.24186" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M11.7584 11.7581L12.5975 12.5972" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M1.5 8H2.68182" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M13.3174 8H14.4992" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M3.40198 12.5972L4.24107 11.7581" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M11.7584 4.24186L12.5975 3.40277" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                 </svg>
+                              </span>
+                              <input type="checkbox" class="themepure-theme-toggle-input" id="this-s">
+                              <i class="tp-theme-toggle-slide"></i>
+                              <span class="tp-theme-toggle-dark">
+                                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                       d="M12 6.54054C11.8949 7.67776 11.4681 8.76152 10.7696 9.66503C10.071 10.5685 9.12957 11.2544 8.05544 11.6424C6.9813 12.0304 5.81888 12.1044 4.70419 11.8559C3.5895 11.6073 2.56866 11.0465 1.7611 10.2389C0.953538 9.43135 0.39267 8.4105 0.144121 7.29581C-0.104428 6.18112 -0.0303768 5.0187 0.357609 3.94457C0.745595 2.87043 1.43147 1.929 2.33497 1.23045C3.23848 0.531888 4.32224 0.105093 5.45946 0C4.79365 0.900756 4.47327 2.01056 4.55656 3.12758C4.63986 4.24459 5.12132 5.2946 5.91336 6.08664C6.7054 6.87869 7.75541 7.36014 8.87242 7.44344C9.98944 7.52673 11.0992 7.20635 12 6.54054Z"
+                                       fill="currentColor" />
+                                 </svg>
+                              </span>
+                           </label>
+                        </div>
+                        <!--<div class="tp-header-cv ml-10 d-none d-md-block">
+                           <a class="tp-header-cv-btn" href="assets/img/cv/mycv.docx">
+                              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8" stroke="currentColor"
+                                    stroke-width="1.5" stroke-linecap="round" />
+                                 <path d="M8 1L8 9.75M8 9.75L10.625 7.125M8 9.75L5.375 7.125" stroke="currentColor"
+                                    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                              </svg>
+                           </a>
+                        </div>-->
+                        <div class="tp-header-hamburger ml-20">
+                           <button class="tp-hamburger-btn tp-hamburger-btn-white tp-menu-bar tp-offcanvas-open-btn-2"
+                              type="button">
+                              <span></span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+   </header>
+   <!-- header area end -->
+
+   <!-- header area start -->
+   <header>
+
+      <div class="tp-header-area tp-header-mob-space tp-header-transparent p-relative tp-int-menu tp-header-sticky-cloned">
+         <div class="container container-large">
+            <div class="tp-header-box p-relative">
+               <div class="row align-items-center">
+                  <div class="col-xl-4 col-lg-3 col-md-4 col-6">
+                     <div class="logo">
+                        <a class="logo-white" href="index.html">
+                           <img data-width="172" src="assets/img/logo/logo-black.svg" alt="">
+                        </a>
+                        <a class="logo-black" href="index.html">
+                           <img data-width="172" src="assets/img/logo/logo.svg" alt="">
+                        </a>
+                     </div>
+                  </div>
+                  <div class="col-xl-6 col-lg-7 d-none d-lg-block">
+                     <div class="main-menu">
+                        <nav class="tp-main-menu-content">
+                           <ul>
+                              <li><a href="index.html">HOME</a></li>
+                              <li><a href="about.html">ABOUT ME</a></li>
+                              <li class="has-dropdown">
+                                 <a href="#">PORTFOLIO</a>
+                                 <ul class="tp-submenu submenu">
+                                    <li><a href="mobile-ui-ux.html">Mobile App Designs</a></li>							
+                                    <li><a href="web-ui-ux.html">Web Interface Designs</a></li>									
+                                    <li><a href="website-design-development.html">Web Design & Development</a></li>
+                                 </ul>
+                              </li>
+                              <li><a href="contact.html">CONTACT</a></li>
+                           </ul>
+                        </nav>
+                     </div>
+                  </div>
+                  <div class="col-xl-2 col-lg-2 col-md-8 col-6">
+                     <div class="tp-header-right d-flex align-items-center justify-content-end">
+                        <div class="tp-theme-toggle ">
+                           <label class="tp-theme-toggle-main themepure-theme-toggle" for="this-ss">
+                              <span class=" tp-theme-toggle-light">
+                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                       d="M8.0448 11.0454C9.70165 11.0454 11.0448 9.7023 11.0448 8.04544C11.0448 6.38859 9.70165 5.04544 8.0448 5.04544C6.38795 5.04544 5.0448 6.38859 5.0448 8.04544C5.0448 9.7023 6.38795 11.0454 8.0448 11.0454Z"
+                                       fill="currentColor" />
+                                    <path d="M8 1.5V2.68182" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M8 13.3182V14.5" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M3.40198 3.40277L4.24107 4.24186" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M11.7584 11.7581L12.5975 12.5972" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M1.5 8H2.68182" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M13.3174 8H14.4992" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M3.40198 12.5972L4.24107 11.7581" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M11.7584 4.24186L12.5975 3.40277" stroke="currentColor" stroke-width="1.5"
+                                       stroke-linecap="round" stroke-linejoin="round" />
+                                 </svg>
+                              </span>
+                              <input type="checkbox" class="themepure-theme-toggle-input" id="this-ss">
+                              <i class="tp-theme-toggle-slide"></i>
+                              <span class="tp-theme-toggle-dark">
+                                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                       d="M12 6.54054C11.8949 7.67776 11.4681 8.76152 10.7696 9.66503C10.071 10.5685 9.12957 11.2544 8.05544 11.6424C6.9813 12.0304 5.81888 12.1044 4.70419 11.8559C3.5895 11.6073 2.56866 11.0465 1.7611 10.2389C0.953538 9.43135 0.39267 8.4105 0.144121 7.29581C-0.104428 6.18112 -0.0303768 5.0187 0.357609 3.94457C0.745595 2.87043 1.43147 1.929 2.33497 1.23045C3.23848 0.531888 4.32224 0.105093 5.45946 0C4.79365 0.900756 4.47327 2.01056 4.55656 3.12758C4.63986 4.24459 5.12132 5.2946 5.91336 6.08664C6.7054 6.87869 7.75541 7.36014 8.87242 7.44344C9.98944 7.52673 11.0992 7.20635 12 6.54054Z"
+                                       fill="currentColor" />
+                                 </svg>
+                              </span>
+                           </label>
+                        </div>
+                        <!--<div class="tp-header-cv ml-10 d-none d-md-block">
+                           <a class="tp-header-cv-btn" href="assets/img/cv/mycv.docx">
+                              <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8" stroke="currentColor"
+                                    stroke-width="1.5" stroke-linecap="round" />
+                                 <path d="M8 1L8 9.75M8 9.75L10.625 7.125M8 9.75L5.375 7.125" stroke="currentColor"
+                                    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                              </svg>
+                           </a>
+                        </div>-->
+                        <div class="tp-header-hamburger ml-20">
+                           <button class="tp-hamburger-btn tp-hamburger-btn-white tp-menu-bar tp-offcanvas-open-btn-2"
+                              type="button">
+                              <span></span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+   </header>
+   <!-- header area end -->
+
+  <!-- Scroll Smoother -->
+
+   <div id="smooth-wrapper" class="tp-page-wrapper theme-bg" data-background="assets/img/bg/distort-bg.png">
+      <div id="smooth-content">
+
+         <main>     
+
+            <!-- hero area start -->
+            <section class="tp-hero-area p-relative tp-btn-trigger z-index-1 fix theme-bg-2">
+               <div class="tp-hero-social-wrapper">
+                  <span class="tp-hero-social-bar"></span>
+                  <div class="tp-hero-social">
+                     <a target="_blank" href="https://www.behance.net/kaletejas">
+                        <svg width="17" height="11" viewBox="0 0 17 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path
+                              d="M1 5.50008H6.25009C7.52511 5.50008 8.50013 6.47509 8.50013 7.75012C8.50013 9.02514 7.52511 10.0002 6.25009 10.0002H1.75001C1.30001 10.0002 1 9.70015 1 9.25014V1.75001C1 1.30001 1.30001 1 1.75001 1H5.50008C6.7751 1 7.75012 1.97502 7.75012 3.25004C7.75012 4.52506 6.7751 5.50008 5.50008 5.50008H1Z"
+                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" />
+                           <path
+                              d="M9.99988 7.00005H16C16 5.35002 14.65 4 12.9999 4C11.3499 4 9.99988 5.35002 9.99988 7.00005ZM9.99988 7.00005C9.99988 8.65008 11.3499 10.0001 12.9999 10.0001H14.275"
+                              stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                              stroke-linejoin="round" />
+                           <path d="M14.1249 2.125H11.8749" stroke="currentColor" stroke-width="1.5"
+                              stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                     </a>				  
+                     <a target="_blank" href="https://dribbble.com/Tejaskale">
+                        <svg width="18" height="17" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path
+                              d="M2.50589 12.2494C4.57662 15.836 9.16278 17.0648 12.7494 14.9941C14.2113 14.15 15.2816 12.888 15.8962 11.4461C16.7895 9.35066 16.7208 6.87526 15.4941 4.75063C14.2674 2.62599 12.1581 1.32872 9.89669 1.05462C8.34063 0.866 6.71259 1.16183 5.25063 2.00589C1.66403 4.07662 0.435172 8.66278 2.50589 12.2494Z"
+                              stroke="currentColor" stroke-width="1.5" />
+                           <path
+                              d="M12.712 14.9291C12.712 14.9291 12.0079 9.98655 10.5004 7.37547C8.99289 4.76439 5.28862 2.07143 5.28862 2.07143M5.68375 15.1123C6.79479 11.7605 12.3392 8.04512 16.3967 8.93525M12.3103 1.90808C11.1945 5.22332 5.75659 8.88441 1.71802 8.08903"
+                              stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+                        </svg>
+                     </a>
+					 <a target="_blank" href="https://www.instagram.com/tejas_kale_/">
+						<span>
+						   <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+							  xmlns="http://www.w3.org/2000/svg">
+							  <path
+								 d="M11.5 1H4.5C2.567 1 1 2.567 1 4.5V11.5C1 13.433 2.567 15 4.5 15H11.5C13.433 15 15 13.433 15 11.5V4.5C15 2.567 13.433 1 11.5 1Z"
+								 stroke="currentcolor" stroke-width="1.5" stroke-linecap="round"
+								 stroke-linejoin="round" />
+							  <path
+								 d="M10.8002 7.55921C10.8866 8.14178 10.7871 8.73676 10.5158 9.25952C10.2446 9.78228 9.81539 10.2062 9.28932 10.471C8.76326 10.7358 8.1671 10.8279 7.58564 10.7344C7.00417 10.6408 6.46702 10.3663 6.05057 9.94982C5.63413 9.53338 5.3596 8.99622 5.26603 8.41476C5.17247 7.8333 5.26463 7.23714 5.52941 6.71107C5.7942 6.18501 6.21812 5.75583 6.74087 5.48458C7.26363 5.21333 7.85861 5.11382 8.44119 5.20021C9.03543 5.28833 9.58558 5.56524 10.0104 5.99003C10.4352 6.41482 10.7121 6.96496 10.8002 7.55921Z"
+								 stroke="currentcolor" stroke-width="1.5" stroke-linecap="round"
+								 stroke-linejoin="round" />
+							  <path d="M11.8499 4.15137H11.8599" stroke="currentcolor" stroke-width="1.5"
+								 stroke-linecap="round" stroke-linejoin="round" />
+						   </svg>
+						</span>	
+					</a>									
+					 
+                  </div>
+               </div>
+               <div class="tp-hero-shape">
+                  <div class="tp-hero-shape-1 background-white-mode" data-background="assets/img/hero/hero-overlay.png"></div>
+                  <div class="tp-hero-shape-1 background-dark-mode" data-background="assets/img/hero/hero-overlay-2.png"></div>
+                  <span class="tp-hero-shape-2"></span>
+               </div>
+               <div class="tp-hero-bottom-text-wrapper">
+                  <div class="tp-hero-bottom-text">
+                     <p>UX designer</p>
+                     <p>UI designer</p>
+                  </div>
+                  <div class="tp-hero-bottom-text">
+                     <p>Web designer</p>
+                     <p>Visual designer</p>
+                  </div>
+               </div>
+               <div class="container">
+                  <div class="row align-items-end">
+                     <div class="col-xl-7 col-lg-7 col-md-12">
+                        <div class="tp-hero-left-wrapper">
+                           <div class="tp-hero-content tp_text_anim p-relative z-index-1">
+                              <span>Hello There! <img src="assets/img/hero/hero-hand.png" alt=""></span>
+                              <h3 class="tp-hero-title cd-headline clip tp_title_anim">
+                                 I am tejas <br>
+                                 <span class="cd-words-wrapper">
+                                    <b class="is-visible">UX</b>
+                                    <b class="app">UI</b>
+                                    <b>Web</b>
+                                 </span>
+                                 designer
+                              </h3>
+
+                              <p>I have an immense passion for UI/UX design, visual design, and the world of web design and development.</p>
+
+                              <div class="tp-hero-btn wrap ">
+                                 <div class="tp-hover-btn-wrapper tp-btn-bounce">
+                                    <a href="contact.html" class="tp-hover-btn tp-hover-btn-item tp-btn-circle square">
+                                       <span class="tp-btn-circle-text">
+                                          Get <br> In Touch
+                                       </span>
+                                       <span class="tp-btn-circle-arrow">
+                                          <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                             <path d="M11 1L1 11" stroke="currentColor" stroke-width="1.5"
+                                                stroke-linecap="round" stroke-linejoin="round" />
+                                             <path d="M2.98874 1.01725L10.9991 1L10.9826 9.01105" stroke="currentColor"
+                                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                          </svg>
+                                       </span>
+                                       <i class="tp-btn-circle-dot"></i>
+                                    </a>
+                                 </div>
+                              </div>
+                              <div class="tp-hero-scroll smooth">
+                                 <a href=".html">
+                                    <span class="tp-hero-scroll-bar"></span>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-5 col-lg-5 col-md-12">
+                        <div class="tp-hero-thumb-wrapper text-center text-lg-end p-relative z-index-1">
+                           <div class="tp-hero-thumb-shape">
+                              <span class="tp-hero-thumb-shape-3"></span>
+                           </div>
+                           <div class="tp-hero-thumb">
+                              <img src="assets/img/hero/tejas-kale-ui-ux-designer.png" alt="">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <!-- hero area end -->
+
+            <!-- service area start -->
+            <section class="tp-services-area tp-sv tp-services-bg-text-animation fix">
+               <div class="container container-large">
+                  <div class="tp-services-inner pb-195 p-relative z-index-1">
+
+                     <span class="tp-services-inner-border tp-vertical-line transition-3"></span>
+                     <span class="tp-services-inner-border right tp-vertical-line transition-3"></span>
+
+                     <div class="tp-services-bottom-text tp-services-bg-text ">
+                        <!--<p>Things that I do</p>-->
+                     </div>
+                     <div class="row gx-0">
+                        <div class="col-xl-6 col-lg-7">
+                           <div class="tp-services-wrapper tp-services-capsule-wrapper p-relative  pt-100 pr-70"
+                              data-tp-throwable-scene="true">
+                              <div class="tp-section-title-wrapper tp_text_anim">
+                                 <div class="tp-section-title-inner p-relative">
+                                    <h3 class="tp-section-title tp_title_anim">Things <br>that I do.</h3>
+                                 </div>
+                                 <p>As a UI/UX Designer, my responsibilities include creating visually appealing, functional, and user-friendly digital experiences.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-5">
+                           <div class="tp-services-accordion tp-accordion tp-accordion-2 mt-90 pl-70 p-relative">
+                              <span class="tp-services-accordion-border"></span>
+                              <div class="accordion" id="accordionExample">
+                                 <div class="accordion-item tp-services-accordion-item active">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                       <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                          data-bs-target="#collapseTwo" aria-expanded="false"
+                                          aria-controls="collapseTwo">
+                                          <span>02</span>
+                                          UI/UX Design
+                                       </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse show"
+                                       aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                       <div class="accordion-body">
+                                          <ul>
+                                             <li>Research and Discovery</li>
+                                             <li>Define Goals and Requirements</li>
+                                             <li>Wireframing and Prototyping</li>
+											 <li>Visual Design</li>
+											 <li>Interaction Design</li>
+											 <li>Usability Testing</li>
+											 <li>Collaboration and Communication</li>
+											 <li>Final Design Delivery</li>
+											 <li>Post-Launch Analysis</li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                    <span class="accordion-item-border"></span>
+                                 </div>
+                                 <div class="accordion-item tp-services-accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                       <button class="accordion-button collapsed" type="button"
+                                          data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                          aria-expanded="false" aria-controls="collapseThree">
+                                          <span>03</span>
+                                          Website Design
+                                       </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse"
+                                       aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                       <div class="accordion-body">
+                                          <ul>
+                                             <li>Interface design</li>
+                                             <li>Creating design systems</li>
+                                             <li>Bootstrap Framework</li>
+											 <li>HTML/CSS/JS</li>
+											 <li>Responsive Design</li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                    <span class="accordion-item-border"></span>
+                                 </div>
+                                 <div class="accordion-item tp-services-accordion-item">
+                                    <h2 class="accordion-header" id="headingFour">
+                                       <button class="accordion-button collapsed" type="button"
+                                          data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
+                                          aria-controls="collapseFour">
+                                          <span>04</span>
+                                          Branding
+                                       </button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse"
+                                       aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                       <div class="accordion-body">
+                                          <ul>
+                                             <li>Graphic Design</li>
+                                             <li>Typography</li>
+                                             <li>Color Theory</li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                    <span class="accordion-item-border"></span>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <!-- service area end -->
+
+            <!-- marquee area start -->
+            <div class="tp-marquee-area z-index-5">
+               <div class="tp-marquee-wrapper">
+                  <div class="tp-marquee-slider fix">
+                     <div class="tp-marquee-slider-active d-flex align-items-center ">
+                        <div class="tp-marquee-item">
+                           <p><a target="_blank" href="https://www.uplabs.com/Tejaskale">Check my latest work on Uplabs</a></p>
+                        </div>
+                        <div class="tp-marquee-item">
+                           <p><img src="assets/img/marquee/stroke.svg" alt=""><a target="_blank" href="https://www.behance.net/kaletejas">Check my latest work on Behance</a><img src="assets/img/marquee/stroke.svg" alt=""></p>
+                        </div>
+                        <div class="tp-marquee-item">
+                           <p><a target="_blank" href="https://dribbble.com/Tejaskale">Check my latest work on Dribbble</a></p>
+                        </div>
+                        <div class="tp-marquee-item">
+                           <p><img src="assets/img/marquee/stroke.svg" alt=""><a target="_blank" href="https://www.linkedin.com/in/tejas-kale-82673212b/">Reach out to me on LinkedIn</a><img src="assets/img/marquee/stroke.svg" alt=""></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- marquee area end -->
+
+
+            <!-- portfolio area start -->
+            <section class="tp-portfolio-area tp-btn-trigger-2 p-relative z-index-1 pt-280 pb-40 fix">
+               <div class="tp-portfolio-top-text tp-portfolio-bg-text d-flex align-items-center">
+                  <p>Latest Work</p>
+                  <p>Latest Work</p>
+               </div>
+               <div class="container">
+                  <div class="row">
+                     <div class="col-xl-6 col-lg-6">
+                        <div class="tp-portfolio-wrapper pr-30 pt-55">
+                           <div class="tp-section-title-wrapper mb-60">
+                              <div class="tp-section-title-inner tp_title_anim p-relative">
+                                 <h3 class="tp-section-title tp_title_anim">Latest <br> work</h3>
+                              </div>
+                           </div>
+
+                           <div class="tp-portfolio-item-wrapper">
+                              <!-- portfolio item -->
+                              <div class="tp-portfolio-item mb-70">
+                                 <a href="one-card-details.html">
+                                    <div class="tp-portfolio-thumb img-1 w-img fix ">
+                                       <div class="tp-portfolio-thumb-img include-bg d-none"
+                                          data-background="assets/img/portfolio/portfolio-1.jpg"></div>
+                                       <div class="tp-portfolio-thumb-img ">
+                                          <img data-speed="0.85" src="assets/img/portfolio/portfolio-1.jpg" alt="">
+                                       </div>
+                                    </div>
+                                    <div class="tp-portfolio-content">
+                                       <h3 class="tp-portfolio-title">One Card </h3>
+
+                                       <div class="tp-portfolio-meta d-flex align-items-center">
+                                          <span class="tp-portfolio-meta-count">01</span>
+
+                                          <span class="tp-portfolio-meta-arrow">
+                                             <svg width="42" height="13" viewBox="0 0 42 13" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M35.4889 1L41 6.33338L35.4889 11.6667" stroke="currentColor"
+                                                   stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M0.999998 6.33179H41" stroke="currentColor" stroke-width="1.5"
+                                                   stroke-linecap="round" stroke-linejoin="round" />
+                                             </svg>
+                                          </span>
+
+                                          <div class="tp-portfolio-meta-hover">
+                                             <span>Mobile - UI/UX</span>
+                                             <span class="tp-portfolio-meta-link">View Project</span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </a>
+                              </div>
+                           </div>
+
+                           <div class="tp-portfolio-more tp-hover-btn-wrapper tp-btn-bounce-2 d-none d-lg-block">
+                              <a href="web-ui-ux.html"
+                                 class="tp-hover-btn tp-hover-btn-item tp-btn-circle-2 d-flex align-items-center justify-content-center flex-column">
+                                 <span class="tp-btn-circle-text-2">
+                                    Explore <br> All Project
+                                    <span class="tp-btn-circle-arrow-2">
+                                       <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                          xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M15 1L1 15" stroke="currentColor" stroke-width="1.5"
+                                             stroke-linecap="round" stroke-linejoin="round" />
+                                          <path d="M3.78415 1.02414L14.9987 1L14.9756 12.2155" stroke="currentColor"
+                                             stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                       </svg>
+                                    </span>
+                                 </span>
+                                 <i class="tp-btn-circle-dot"></i>
+                              </a>
+                           </div>
+
+                        </div>
+                     </div>
+                     <div class="col-xl-6 col-lg-6">
+                        <div class="tp-portfolio-item-wrapper pl-50">
+                           <!-- portfolio item -->
+                           <div class="tp-portfolio-item mb-70">
+                              <a href="fitness-tracking-details.html">
+                                 <div class="tp-portfolio-thumb img-2 w-img fix ">
+
+                                    <div class="tp-portfolio-thumb-img include-bg d-none"
+                                       data-background="assets/img/portfolio/portfolio-2.jpg"></div>
+
+                                    <div class="tp-portfolio-thumb-img">
+                                       <img data-speed="0.85" src="assets/img/portfolio/portfolio-2.jpg" alt="">
+                                    </div>
+                                 </div>
+                                 <div class="tp-portfolio-content">
+                                    <h3 class="tp-portfolio-title">Fitness Tracking</h3>
+                                    <div class="tp-portfolio-meta d-flex align-items-center">
+                                       <span class="tp-portfolio-meta-count">02</span>
+                                       <span class="tp-portfolio-meta-arrow">
+                                          <svg width="42" height="13" viewBox="0 0 42 13" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                             <path d="M35.4889 1L41 6.33338L35.4889 11.6667" stroke="currentColor"
+                                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                             <path d="M0.999998 6.33179H41" stroke="currentColor" stroke-width="1.5"
+                                                stroke-linecap="round" stroke-linejoin="round" />
+                                          </svg>
+                                       </span>
+                                       <div class="tp-portfolio-meta-hover">
+                                          <span>Mobile - UI/UX</span>
+                                          <span class="tp-portfolio-meta-link">View Project</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+
+                           <!-- portfolio item -->
+                           <div class="tp-portfolio-item mb-70">
+                              <a href="crm-details.html">
+                                 <div class="tp-portfolio-thumb img-3 w-img fix">
+                                    <div class="tp-portfolio-thumb-img include-bg d-none"
+                                       data-background="assets/img/portfolio/portfolio-3.jpg"></div>
+                                    <div class="tp-portfolio-thumb-img">
+                                       <img data-speed="0.85" src="assets/img/portfolio/portfolio-3.jpg" alt="">
+                                    </div>
+                                 </div>
+                                 <div class="tp-portfolio-content">
+                                    <h3 class="tp-portfolio-title">CRM</h3>
+                                    <!-- meta -->
+                                    <div class="tp-portfolio-meta d-flex align-items-center">
+                                       <span class="tp-portfolio-meta-count">03</span>
+                                       <span class="tp-portfolio-meta-arrow">
+                                          <svg width="42" height="13" viewBox="0 0 42 13" fill="none"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                             <path d="M35.4889 1L41 6.33338L35.4889 11.6667" stroke="currentColor"
+                                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                             <path d="M0.999998 6.33179H41" stroke="currentColor" stroke-width="1.5"
+                                                stroke-linecap="round" stroke-linejoin="round" />
+                                          </svg>
+                                       </span>
+                                       <div class="tp-portfolio-meta-hover">
+                                          <span>Web - UI/UX</span>
+                                          <span class="tp-portfolio-meta-link">View Project</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <!-- portfolio area end -->
+
+            <!-- skill area start -->
+            <section class="tp-skill-area pt-115 pb-105 p-relative z-index-1 fix theme-bg-2"
+               data-background="assets/img/skill/bg-distort.png">
+               <div class="tp-skill-shape">
+                  <span class="tp-skill-shape-1"></span>
+                  <span class="tp-skill-shape-2"></span>
+               </div>
+               <div class="container">
+                  <div class="row">
+                     <div class="col-xl-12">
+                        <div class="tp-skill-section-title">
+                           <div class="tp-section-title-wrapper tp_text_anim mb-30 text-center">
+                              <div class="tp-section-title-inner tp_title_anim p-relative">
+                                 <h3 class="tp-section-title">Skills & tools</h3>
+                              </div>
+                              <p>These are the tech,  design tools and skills which I have on hand.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-xl-12">
+                        <div class="tp-skill-tab tp-tab d-flex align-items-center justify-content-center mb-70">
+                           <nav>
+                              <div class="nav nav-tabs tp-marker-tab" id="nav-tab" role="tablist">
+                                 <button class="nav-link " id="nav-tech-tab" data-bs-toggle="tab"
+                                    data-bs-target="#nav-tech" type="button" role="tab" aria-controls="nav-tech"
+                                    aria-selected="true">Tech</button>
+                                 <button class="nav-link active" id="nav-design-tab" data-bs-toggle="tab"
+                                    data-bs-target="#nav-design" type="button" role="tab" aria-controls="nav-design"
+                                    aria-selected="false">Design</button>
+                                 <span id="lineMarker"></span>
+                              </div>
+                           </nav>
+                                                     
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-xl-12">
+                        <div class="tab-content" id="nav-tabContent">
+                           <div class="tab-pane fade " id="nav-tech" role="tabpanel" aria-labelledby="nav-tech-tab"
+                              tabindex="0">
+                              <div class="tp-skill-tab-content tp-skill-radius">
+                                 <div class="row">
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/shopify.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Shopify</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/wp.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">WordPress</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/html.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">HTML5</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/css.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">CSS3</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/webflow.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Webflow</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/wix.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Wix</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="tab-pane fade show active" id="nav-design" role="tabpanel"
+                              aria-labelledby="nav-design-tab" tabindex="0">
+                              <div class="tp-skill-tab-content tp-skill-radius">
+                                 <div class="row">
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/figma.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Figma</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/sketch.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Sketch</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/photoshop.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Photoshop</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/xd.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Adobe XD</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/figma.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Figjam</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-2 col-lg-3 col-md-3 col-6">
+                                       <div class="tp-skill-item text-center">
+                                          <div
+                                             class="tp-skill-thumb d-flex align-items-center justify-content-center flex-column">
+                                             <div class="tp-skill-icon">
+                                                <span>
+                                                   <img src="assets/img/skill/ai.png" alt="">
+                                                </span>
+                                             </div>
+                                          </div>
+                                          <div class="tp-skill-content">
+                                             <h3 class="tp-skill-title">Illustrator</h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <!-- skill area end -->
+
+         </main>
+
+         <footer>
+
+            <div class="tp-footer-bg tp-footer-bg-light p-relative fix z-index-1 theme-bg-2" data-background="assets/img/skill/bg-distort.png">
+               <div class="tp-footer-circle-1">
+                  <span></span>
+               </div>
+               <div class="tp-footer-circle-2">
+                  <span></span>
+               </div>
+               <div class="tp-footer-circle-3" data-speed=".7">
+                  <span></span>
+               </div>
+               <!-- footer area start -->
+               <div class="tp-footer-area pt-120 pb-80">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-xl-12">
+                           <div class="tp-footer-content text-center">
+                              <h3 class="tp-footer-title big tp_title_anim">Let's Uncover the <br> Next Innovation</h3>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="tp-footer-btn-box">
+                        <div class="row">
+                           <div class="col-xl-6 offset-xl-3 col-lg-6 offset-lg-3 col-md-6 offset-md-3">
+                              <div class="tp-footer-btn text-center ">
+                                 <a class="tp-btn-green w-100" href="mailto:WriteaMessage">
+                                    <div>
+                                       <span>Write a Message</span>
+                                    </div>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row gx-50">
+                        <div class="col-xl-3 col-lg-3 col-md-3 mb-30">
+                           <a target="_blank" href="https://www.linkedin.com/in/Tejaskale/">
+                              <div class="tp-footer-social-item d-flex align-items-center justify-content-between">
+                                 <span class="tp-footer-anim-border"></span>
+                                 <div class="tp-footer-social-text z-index-1">
+                                    <span class="child-1">LinkedIn</span>
+                                    <span class="child-2">@Tejaskale</span>
+                                 </div>
+                                 <div class="tp-footer-social-icon z-index-1">
+                                    <span>
+										<i class="fa-brands fa-linkedin-in"></i>
+									</span>
+								</div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-3 mb-30">
+                           <a target="_blank" href="https://www.behance.net/kaletejas">
+                              <div class="tp-footer-social-item d-flex align-items-center justify-content-between">
+                                 <span class="tp-footer-anim-border"></span>
+                                 <div class="tp-footer-social-text z-index-1">
+                                    <span class="child-1">Behance</span>
+                                    <span class="child-2">@Tejaskale</span>
+                                 </div>
+                                 <div class="tp-footer-social-icon z-index-1">
+                                    <span>
+                                       <svg width="19" height="12" viewBox="0 0 19 12" fill="none"
+                                          xmlns="http://www.w3.org/2000/svg">
+                                          <path
+                                             d="M1 6H6.83333C8.25 6 9.33333 7.08333 9.33333 8.5C9.33333 9.91667 8.25 11 6.83333 11H1.83333C1.33333 11 1 10.6667 1 10.1667V1.83333C1 1.33333 1.33333 1 1.83333 1H6C7.41667 1 8.5 2.08333 8.5 3.5C8.5 4.91667 7.41667 6 6 6H1Z"
+                                             stroke="currentcolor" stroke-width="1.5" stroke-miterlimit="10" />
+                                          <path
+                                             d="M10.9997 7.66634H17.6664C17.6664 5.83301 16.1664 4.33301 14.333 4.33301C12.4997 4.33301 10.9997 5.83301 10.9997 7.66634ZM10.9997 7.66634C10.9997 9.49967 12.4997 10.9997 14.333 10.9997H15.7497"
+                                             stroke="currentcolor" stroke-width="1.5" stroke-miterlimit="10"
+                                             stroke-linecap="round" stroke-linejoin="round" />
+                                          <path d="M15.5831 2.25H13.0831" stroke="currentcolor" stroke-width="1.5"
+                                             stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                                       </svg>
+                                    </span>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-3 mb-30">
+                           <a target="_blank" href="https://dribbble.com/Tejaskale">
+                              <div class="tp-footer-social-item d-flex align-items-center justify-content-between">
+                                 <span class="tp-footer-anim-border"></span>
+                                 <div class="tp-footer-social-text z-index-1">
+                                    <span class="child-1">Dribbble</span>
+                                    <span class="child-2">@Tejaskale</span>
+                                 </div>
+                                 <div class="tp-footer-social-icon z-index-1">
+                                    <span>
+                                       <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
+                                          xmlns="http://www.w3.org/2000/svg">
+                                          <path
+                                             d="M2.07295 12.9993C4.28172 16.825 9.17363 18.1358 12.9993 15.927C14.5588 15.0267 15.7003 13.6806 16.356 12.1425C17.3088 9.90737 17.2355 7.26695 15.927 5.00067C14.6186 2.73439 12.3686 1.35064 9.95647 1.05826C8.29667 0.857067 6.56009 1.17262 5.00067 2.07295C1.17497 4.28172 -0.135817 9.17363 2.07295 12.9993Z"
+                                             stroke="currentcolor" stroke-width="1.5" />
+                                          <path
+                                             d="M12.9595 15.8578C12.9595 15.8578 12.2084 10.5858 10.6004 7.80063C8.99241 5.01548 5.04119 2.14298 5.04119 2.14298M5.46266 16.0532C6.64777 12.478 12.5618 8.51493 16.8898 9.46439M12.5309 1.96875C11.3408 5.505 5.54035 9.41017 1.23254 8.56176"
+                                             stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" />
+                                       </svg>
+                                    </span>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-3 mb-30">
+                           <a target="_blank" href="https://www.instagram.com/tejas_kale_/">
+                              <div class="tp-footer-social-item d-flex align-items-center justify-content-between">
+                                 <span class="tp-footer-anim-border"></span>
+                                 <div class="tp-footer-social-text z-index-1">
+                                    <span class="child-1">Instagram</span>
+                                    <span class="child-2">@uiuxatuldhone</span>
+                                 </div>
+                                 <div class="tp-footer-social-icon z-index-1">
+                                    <span>
+                                       <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                          xmlns="http://www.w3.org/2000/svg">
+                                          <path
+                                             d="M11.5 1H4.5C2.567 1 1 2.567 1 4.5V11.5C1 13.433 2.567 15 4.5 15H11.5C13.433 15 15 13.433 15 11.5V4.5C15 2.567 13.433 1 11.5 1Z"
+                                             stroke="currentcolor" stroke-width="1.5" stroke-linecap="round"
+                                             stroke-linejoin="round" />
+                                          <path
+                                             d="M10.8002 7.55921C10.8866 8.14178 10.7871 8.73676 10.5158 9.25952C10.2446 9.78228 9.81539 10.2062 9.28932 10.471C8.76326 10.7358 8.1671 10.8279 7.58564 10.7344C7.00417 10.6408 6.46702 10.3663 6.05057 9.94982C5.63413 9.53338 5.3596 8.99622 5.26603 8.41476C5.17247 7.8333 5.26463 7.23714 5.52941 6.71107C5.7942 6.18501 6.21812 5.75583 6.74087 5.48458C7.26363 5.21333 7.85861 5.11382 8.44119 5.20021C9.03543 5.28833 9.58558 5.56524 10.0104 5.99003C10.4352 6.41482 10.7121 6.96496 10.8002 7.55921Z"
+                                             stroke="currentcolor" stroke-width="1.5" stroke-linecap="round"
+                                             stroke-linejoin="round" />
+                                          <path d="M11.8499 4.15137H11.8599" stroke="currentcolor" stroke-width="1.5"
+                                             stroke-linecap="round" stroke-linejoin="round" />
+                                       </svg>
+                                    </span>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>						
+                     </div>
+                  </div>
+               </div>
+               <!-- footer area end -->
+
+               <!-- copyright area start -->
+               <div class="tp-copyright-area pb-20">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-xl-6 col-md-6">
+                           <div class="tp-copyright-content-left text-center text-md-start">
+                              <p>©2024, All Rights Reserved by Tejas Kale</p>
+                           </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6">
+                           <div class="tp-copyright-content-right text-center text-md-end">
+                              <span>2024 Personal Portfolio.</span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!-- copyright area end -->
+            </div>
+
+         </footer>
+      </div>
+   </div>
+
+
+   <!-- JS here -->
+   <script src="assets/js/vendor/jquery.js"></script>
+   <script src="assets/js/bootstrap-bundle.js"></script>
+   <script src="assets/js/three.js"></script>
+   <script src="assets/js/gsap.js"></script>
+   <!--<script src="assets/js/gsap-scroll-smoother.js"></script>-->
+   <script src="assets/js/gsap-scroll-trigger.js"></script>
+   <script src="assets/js/gsap-scroll-to-plugin.js"></script>
+   <script src="assets/js/gsap-split-text.js"></script>
+   <script src="assets/js/webgl.js"></script>
+
+   <script src="assets/js/swiper-bundle.js"></script>
+   <script src="assets/js/slick.js"></script>
+   <script src="assets/js/wow.js"></script>
+   <script src="assets/js/pagepiling.js"></script>
+   <script src="assets/js/headroom.min.js"></script>
+   <script src="assets/js/magnific-popup.js"></script>
+   <script src="assets/js/nice-select.js"></script>
+   <script src="assets/js/purecounter.js"></script>
+   <script src="assets/js/hammer.js"></script>
+   <script src="assets/js/matter.js"></script>
+   <script src="assets/js/throwable.js"></script>
+   <script src="assets/js/isotope-pkgd.js"></script>
+   <script src="assets/js/imagesloaded-pkgd.js"></script>
+   <script src="assets/js/ajax-form.js"></script>
+
+   <script src="assets/js/theme-settings.js"></script>
+   <script src="assets/js/animated-headline.js"></script>
+   <script src="assets/js/main.js"></script>
+   <script src="assets/js/tp-cursor.js"></script>
+
+</body>
+</html>
